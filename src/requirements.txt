@@ -1,0 +1,8 @@
+python-dotenv
+azure-identity
+azure-core
+azure-search-documents
+jinja2
+openai
+tiktoken
+mecab-python3
