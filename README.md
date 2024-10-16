@@ -14,4 +14,4 @@
 
 ## 構成図
 
-<img src="全体構成図.png" width="1000" height="535" alt="全体構成図">
+<img src="全体構成図.png" width="1000" height="500" alt="全体構成図">
